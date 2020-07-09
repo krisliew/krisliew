@@ -2,6 +2,7 @@
 
 - I am Soon Jing 😊
 - Currently expanding my knowledge on web dev and blockchain technology 🌱
+- Do take a look at one of my simple blockchain poc [notarise-demo](https://github.com/soonjing/notarise-demo#certificate-notarisation-demo)
 
 <!--
 **soonjing/soonjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
