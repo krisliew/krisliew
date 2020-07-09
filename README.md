@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-😊 I am Soon Jing
-🌱 Currently learning web dev and blockchain stuff!
+- 😊 I am Soon Jing
+- 🌱 Currently learning web dev and blockchain stuff!
 
 <!--
 **soonjing/soonjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
