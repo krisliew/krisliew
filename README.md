@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am Soon Jing 😊
+- I am Kris 😊
 - Expanding my knowledge on web dev 🌱
 - Do take a look at one of my simple blockchain poc [notarise-demo](https://github.com/soonjing/notarise-demo#certificate-notarisation-demo) 💻
 - Currently building a portfolio blog, and would love to have some suggestion! 🔨
