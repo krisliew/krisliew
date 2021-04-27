@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- I am Kris 😊
-- Expanding my knowledge on web dev 🌱
-- Do take a look at one of my simple blockchain poc [notarise-demo](https://github.com/soonjing/notarise-demo#certificate-notarisation-demo) 💻
-- Currently building a portfolio blog, and would love to have some suggestion! 🔨
+- I am Kris and I enjoy learning js and crypto related things 🌱
 
 <!--
 **soonjing/soonjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
