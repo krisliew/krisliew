@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am Kris and I enjoy learning js and crypto related things 🌱
+- I am Kris and I enjoy learning ai and crypto related things 🌱
 
 <!--
 **soonjing/soonjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
